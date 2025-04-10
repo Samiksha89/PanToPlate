@@ -44,5 +44,5 @@ JavaScript (Vanilla)
 ![Website Screenshot](screenshot(4).png)
 
 
-![Logo](https://media.canva.com/v2/image-resize/format:JPG/height:452/quality:92/uri:ifs%3A%2F%2F%2F8b5b3a94-7691-4720-89b7-7468f4f58205/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAALLWWlHzkIVRvIJsDTANhf6QViqpk9J9JffxwZFwh57o&exp=1744152749&osig=AAAAAAAAAAAAAAAAAAAAADQg-9hJbuYJU5ocQ5yxs3qU026p7lreP55NE9XiMd_V&signer=media-rpc&x-canva-quality=screen)
+![Logo](https://as1.ftcdn.net/v2/jpg/06/29/65/08/1000_F_629650870_ARwd0nxyOFzRok3Kl8AiftZyErtnQ2vs.jpg)
 
