@@ -9,7 +9,7 @@
     color: var(--dark-color);
 }
 
-/* Contact Info Cards */
+
 .contact-info {
     padding: 3rem 0;
 }
@@ -55,7 +55,7 @@
     line-height: 1.8;
 }
 
-/* Contact Form */
+
 .contact-form-section {
     padding: 4rem 0;
 }
@@ -71,7 +71,7 @@
     margin-bottom: 1.5rem;
 }
 
-/* FAQ Accordion */
+
 .accordion-item {
     border: none;
     margin-bottom: 1rem;
@@ -118,7 +118,7 @@
     border: 0;
 }
 
-/* Media Queries */
+
 @media (max-width: 768px) {
     .contact-card {
         margin-bottom: 2rem;
