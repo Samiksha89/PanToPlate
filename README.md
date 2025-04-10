@@ -44,5 +44,7 @@ JavaScript (Vanilla)
 ![Website Screenshot](screenshot(4).png)
 
 
+## Logo
+
 ![Logo](https://as1.ftcdn.net/v2/jpg/06/29/65/08/1000_F_629650870_ARwd0nxyOFzRok3Kl8AiftZyErtnQ2vs.jpg)
 
